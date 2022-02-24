@@ -1,4 +1,4 @@
-# Implementing-Machine-Learning-to-Analyze-humans-walkings-extracted-from-micro-doppler-radar
+# Implementing Machine Learning To Analyze Humans Walkings Extracted From Micro Doppler Radar
 (Implementing digital signal processing methods with Machine Learning Machine Learning for Radars)
 * This project is good for new engineers who want to understand digital signal processing and machine learning.
 * Use digital filters in radars for new students.
