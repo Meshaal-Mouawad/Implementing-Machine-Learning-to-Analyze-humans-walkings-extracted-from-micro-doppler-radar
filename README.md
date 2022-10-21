@@ -22,9 +22,6 @@ Modify the experiment 2 to create a Linear Frequency Modulation (LFM) pulse and 
 ## Modification on Experiment 3 : 
 Modify experiment 3 the libsvm_train_str to use a Radial Basis Function (RBF) kernel. Try different kernel parameters and examine if possible to improve the results. Compare and see if this method beats the results in 3a.
 
-# Instructions To Use The Project Code
-*will be added soon ...
-
 # Conclusions
 In the experiment one, computational resolution and physical resolution has been calculation. We can see that these two resolutions depend on the number of FFT points N and window Length L. When we take high FFT point (N), we get low computational resolution by keeping the sampling frequency same and vice versa. On the other hand, if we increased the window length, we got low physical resolution if we kept the window and sampling frequency same. 
 
